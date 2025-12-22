@@ -1,6 +1,6 @@
 ## Các dự án mình đang làm
 
-Mình làm khá nhiều dự án *ngoo-ngoo* trên Github vì mình rảnh quá, bạn có thể thử xem nha ^^!.
+Mình làm khá nhiều dự án *ngoo-ngoo* trên Github vì mình rảnh quá, bạn có thể thử xem nha ^^!. Nếu bạn có ý tưởng hoặc muốn tham gia đóng góp thì có thể thực hiện trực tiếp trên Github, cũng như gửi Email cho mình [tại đây](mailto:duykhanh471@protonmail.com) (<duykhanh471@protonmail.com>)
 
 - [Khu học mở](https://github.com/daihocmo) - Hướng dẫn tự học ngoại ngữ + học làm người (học cách tự học với phát triển cuộc sống này kia ấy :>).
 - [Khu đọc mở](https://github.com/khudocmo) - Số hóa sách/tác phẩm Việt Nam đã thuộc Phạm vi công cộng (Public Domain).
