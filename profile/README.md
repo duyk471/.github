@@ -1,20 +1,30 @@
 ## Các dự án mình đang làm
 
-Mình làm khá nhiều dự án *ngoo-ngoo* trên Github vì mình rảnh quá, bạn có thể thử xem nha ^^!. Nếu bạn có ý tưởng hoặc muốn tham gia đóng góp thì có thể thực hiện trực tiếp trên Github, cũng như gửi Email cho mình [tại đây](mailto:duykhanh471@protonmail.com) (<duykhanh471@protonmail.com>)
+Mình làm khá nhiều dự án *ngoo-ngoo* trên Github, bạn có thể thử xem nha ^^!. Nếu bạn có ý tưởng hoặc muốn tham gia đóng góp thì có thể thực hiện trực tiếp trên Github, cũng như gửi Email cho mình [tại đây](mailto:duykhanh471@protonmail.com).
 
-- [Khu học mở](https://github.com/daihocmo) - Hướng dẫn tự học ngoại ngữ + học làm người (học cách tự học với phát triển cuộc sống này kia ấy :>).
+Các dự án dưới đây đều đã ở mức *tương đối hoàn thành* và bạn có thể sử dụng luôn được. 
+
+### Dự án tự học
+
+- [Khu học mở](https://github.com/daihocmo) - Tự học ngoại ngữ (Anh, Trung, Nhật, Hàn, Pháp, Đức, Nga, Tây Ban Nha, Bồ Đào Nha, Ý, Thái .etc.), tự học chuyên ngành (hiện tại chỉ hỗ trợ 5 chuyên ngành do số lượng tài nguyên hạn chế), tự luyện bản thân (học làm người).
+- [Hocbigg](https://github.com/hocbigg) - Dự án tự học rất nhiều chuyên ngành (majors) bằng Tiếng Anh (thông qua tài nguyên online + miễn phí). Là một dự án được xây dựng để *bổ khuyết* cho Khu học mở.
+- [Khu thoát nghiện](https://github.com/khuthoatnghien) - Một cộng đồng hỗ trợ mọi người thoát (chứ không phải "cai") nghiện sử dụng Easyway của Allen Carr và AVRT của Jack Trimpey.
+
+### Dự án sách + tổng hợp
+
 - [Khu đọc mở](https://github.com/khudocmo) - Số hóa sách/tác phẩm Việt Nam đã thuộc Phạm vi công cộng (Public Domain).
-- [Thanh đạm xanh](https://github.com/thanhdamxanh) - Một trang chuyên về sống xanh, Frugal, tối giản các thứ.
-- [Hocbigg](https://github.com/hocbigg) - Một dự án tự học rất nhiều chuyên ngành thông qua các nguồn tài nguyên miễn phí (MOOCs và sách).
-- [Ăn học](https://github.com/an-hoc) - Trung tâm đào tạo nghề trực tuyến & mã nguồn mở (Vẫn đang trong quá trình lên ý tưởng).
 - [Thư trạm](https://github.com/thu-tram) - Cộng đồng dịch và sưu tầm sách + tài nguyên tự học miễn phí cũng như mã nguồn mở.
-- [Khu thoát nghiện](https://github.com/khuthoatnghien) - Một cộng đồng hỗ trợ mọi người thoát (chứ không phải "cai") nghiện (Bản thảo vẫn đang viết trong quá trình mình thử nghiệm với bản thân nên chưa publish).
-- [Dokuben](https://github.com/dokuben) - Một chương trình tương tự như "Khu học mở" và Hocbigg, nhưng được làm cho người Nhật.
-- [Bunchaway](https://github.com/bunchaway) - Một trang giúp người nước ngoài học Tiếng Việt thông qua Media (Phim ảnh, sách, tiểu thuyết) + tích hợp từ điển Việt - Anh và Việt - Việt.
+- [Bunchaway](https://github.com/bunchaway) - Xây dựng trang từ điển mở + trực tuyến, hỗ trợ tra nhiều từ điển cùng lúc (nghĩa là một ngoại ngữ sẽ có nhiều từ điển khác nhau, mình dự tính sẽ hỗ trợ tối thiểu một từ điển song ngữ Tiếng Việt và một từ điển đơn ngữ) cho các ngoại ngữ trong Khu học mở.
 
-## Ý tưởng sơ khai
+### Dự án về lối sống
 
+- [Thanh đạm xanh](https://github.com/thanhdamxanh) - Một trang chuyên về sống xanh, Frugal, tối giản và zero-waste.
+
+## Các dự án khác
+
+(Những dự án này mới chỉ dừng lại ở mức ý tưởng =)) Khi nào làm được sẽ tính tiếp)
+
+- [Ăn học](https://github.com/an-hoc) - Trung tâm đào tạo nghề trực tuyến & mã nguồn mở (Vẫn đang trong quá trình lên ý tưởng).
 - [VietMOOC](https://github.com/vietmooc) - Ngôi nhà của những khóa học mở (MOOCs) bằng Tiếng Việt cho người Việt (Ở Việt Nam mình chưa có một nền tảng nào như thế này...)
 - [revised-fithanu](https://github.com/revised-fithanu) - Một nỗ lực nhằm cải thiện nội dung chương trình đào tạo chuyên ngành CNTT của Trường đại học Hà Nội (Mới chỉ là ý tưởng).
-
-Còn nhiều các dự án cá nhân khác, nhưng mà không làm trên Github nên không chia sẻ đâu :>>
+- [Dokuben](https://github.com/dokuben) - Một chương trình tương tự như "Khu học mở" và Hocbigg, nhưng được làm cho người Nhật.
