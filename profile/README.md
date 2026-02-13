@@ -15,7 +15,8 @@ Các dự án dưới đây đều đã ở mức *tương đối hoàn thành* 
 - [Khu đọc mở](https://github.com/khudocmo) - Số hóa sách/tác phẩm Việt Nam đã thuộc Phạm vi công cộng (Public Domain).
 - [Thư trạm](https://github.com/thu-tram) - Cộng đồng dịch và sưu tầm sách + tài nguyên tự học miễn phí cũng như mã nguồn mở.
 - [Bunchaway](https://github.com/bunchaway) - Xây dựng trang từ điển mở + trực tuyến, hỗ trợ tra nhiều từ điển cùng lúc (nghĩa là một ngoại ngữ sẽ có nhiều từ điển khác nhau, mình dự tính sẽ hỗ trợ tối thiểu một từ điển song ngữ Tiếng Việt và một từ điển đơn ngữ) cho các ngoại ngữ trong Khu học mở.
-
+- [yomitan-vi](https://github.com/yomitan-vi) - Tạo các từ điển song ngữ cho nhiều ngôn ngữ khác nhau để sử dụng trên Yomitan.
+ 
 ### Dự án về lối sống
 
 - [Thanh đạm xanh](https://github.com/thanhdamxanh) - Một trang chuyên về sống xanh, Frugal, tối giản và zero-waste.
