@@ -3,7 +3,7 @@
 
 ## Các dự án mình đang làm (Giáo dục mã nguồn mở)
 
-Mình làm khá nhiều dự án *ngoo-ngoo* trên Github, bạn có thể thử xem nha ^^!. Nếu bạn có ý tưởng hoặc muốn tham gia đóng góp thì có thể thực hiện trực tiếp trên Github, cũng như gửi Email cho mình [tại đây](mailto:duykhanh471@protonmail.com).
+Mình làm khá nhiều dự án *ngoo-ngoo* trên Github, bạn có thể thử xem nha ^^!. Nếu bạn có ý tưởng hoặc muốn tham gia đóng góp thì có thể thực hiện trực tiếp trên Github nhé (Hoặc liên hệ với mình thông qua Substack hoặc Email cũng được - CẬP NHẬT EMAIL SAU).
 
 ### Dự án tự học
 
