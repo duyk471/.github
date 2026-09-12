@@ -14,6 +14,6 @@ Các dự án mình làm xoay quanh tự học (hay giáo dục mã nguồn mở
 - [Thanh đạm xanh](https://github.com/thanhdamxanh) - Một trang chuyên về sống xanh, tối giản, tiết kiệm và hạn chế (hoặc không) rác thải.
 - [Dokuben](https://github.com/dokuben) - Một chương trình tương tự như "Khu học mở" và Hocbigg, nhưng được làm cho người Nhật.
 
-Mình cũng xin được gửi lời cảm ơn tới tất cả những người đi trước, đặc biệt là những người có ảnh hưởng tới cách mình học, sống, cũng như truyền cảm hứng để các dự án trên được sinh ra, xin được gửi lời cảm ơn đến: Nguyễn Hiến Lê, Nguyễn Duy Cần, Đặng Hoàng Giang, Nguyễn Phương Mai, Lưu Quang Vũ, Nguyễn Trãi, Trần Trọng Kim, Lão Tử, Trang Tử, Jack Trimpey, Allen Carr và nhiều người khác nữa, cả ngoài đời (mình đã được có cơ hội gặp gỡ với nhiều người giỏi hơn mình rất nhiều và có cơ hội được tâm sự và học hỏi từ họ) cũng như trên internet (shoui, matt, happy_666_words, tornad, _chieuchieu_ và rất nhiều người khác nữa).
+Mình cũng xin được gửi lời cảm ơn tới tất cả những người đi trước, đặc biệt là những người có ảnh hưởng tới cách mình học, sống, cũng như truyền cảm hứng để các dự án trên được sinh ra.
 
 Cảm ơn mọi người đã đọc, chúc mọi người mạnh giỏi.
