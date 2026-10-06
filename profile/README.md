@@ -17,3 +17,7 @@ Các dự án mình làm xoay quanh tự học (hay giáo dục mã nguồn mở
 Mình cũng xin được gửi lời cảm ơn tới tất cả những người đi trước, đặc biệt là những người có ảnh hưởng tới cách mình học, sống, cũng như truyền cảm hứng để các dự án trên được sinh ra.
 
 Cảm ơn mọi người đã đọc, chúc mọi người mạnh giỏi.
+
+> *I’m very serious about no alcohol, no drugs. Life’s too beautiful.*
+>
+> Nói không với rượu bia với mai thúy, vì đời quá đẹp.
